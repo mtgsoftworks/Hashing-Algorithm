@@ -1,1 +1,2 @@
 # Hashing-Algorithm
+Sample data for 2 separate classes in the project1.csv document uploaded to the system in the first stage of the project are placed in a table with 2 index values using the hashing approach. When your hashing function is run in the configured order, the data with the A tag in the project1.xlsx document is placed in the first index, while the data with the B tag is placed in the second index.
